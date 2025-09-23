@@ -1,6 +1,6 @@
 # 🐱 CodeSpace Cat's Portfolio
 
-This is my **HTML Portfolio Project**, created as part of my coursework with [CodeSpace Academy](https://www.codespace.co.za/).  
+This is my HTML Portfolio Project, created as part of my coursework with [CodeSpace Academy](https://www.codespace.co.za/).  
 The project showcases CodeSpace Cat’s portfolio, including an **About Me** section, a **skills list**, a **portfolio table**, and a **contact form**.
 
 It helped me practice structuring HTML pages, creating forms, adding images, and linking sections together.
@@ -32,10 +32,10 @@ It helped me practice structuring HTML pages, creating forms, adding images, and
 
 I really enjoyed working through this assignment, but I also faced some challenges:
 
-- I **struggled with creating a form** at first but improved by checking examples and validating my work.
-- At one point, I created a second HTML file called `Catfolio.html` and linked it to my main file. Later, after watching the reference videos, I realized that **everything needed to be inside one HTML file**, so I fixed it.
-- **Helping others helped me** — whenever I explained concepts or helped classmates, I often noticed mistakes I had made myself. This made my learning process much stronger.
-- I also **discovered that `id` and `#text` selectors are case-sensitive**, which explained why some of my links weren’t working at first. Paying attention to exact capitalization became an important lesson for me.
+- I struggled with creating a form at first but improved by checking examples and validating my work.
+- At one point, I created a second HTML file called `Catfolio.html` and linked it to my main file. Later, after watching the reference videos, I realized that everything needed to be inside one HTML file, so I fixed it.
+- Helping others helped me,whenever I explained concepts or helped classmates, I often noticed mistakes I had made myself. This made my learning process much stronger.
+- I also discovered that `id` and `#text` selectors are case-sensitive, which explained why some of my links weren’t working at first. Paying attention to exact capitalization became an important lesson for me.
 
 Overall, the project was a mix of trial-and-error, fixing mistakes, and improving step by step.
 
