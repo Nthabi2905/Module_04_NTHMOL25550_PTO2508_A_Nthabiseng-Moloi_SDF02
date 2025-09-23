@@ -1,6 +1,6 @@
 # 🐱 CodeSpace Cat's Portfolio
 
-This is my **HTML Portfolio Project**, created as part of my coursework.  
+This is my **HTML Portfolio Project**, created as part of my coursework with [CodeSpace Academy](https://www.codespace.co.za/).  
 The project showcases CodeSpace Cat’s portfolio, including an **About Me** section, a **skills list**, a **portfolio table**, and a **contact form**.
 
 It helped me practice structuring HTML pages, creating forms, adding images, and linking sections together.
