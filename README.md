@@ -53,17 +53,13 @@ Overall, the project was a mix of trial-and-error, fixing mistakes, and improvin
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](reference images/sections_1.png)
+(reference images/sections_1.png)
 
 ---
 
 ## 🎥 Demo Video
 
-_Add a screen recording video of your portfolio here (replace the example below):_
-
-![Watch the video](videos/project_codespace_cat_portfolio.mp4)
-
----
+## <video controls src="videos/project_codespace_cat_portfolio.mp4" title="Title"></video>
 
 ## 📌 How to Run
 
