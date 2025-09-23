@@ -53,8 +53,6 @@ Overall, the project was a mix of trial-and-error, fixing mistakes, and improvin
 
 ## 📸 Screenshots
 
-_Add screenshots of your project here (replace the example below):_
-
 ![Portfolio Screenshot](reference images/sections_1.png)
 
 ---
@@ -63,7 +61,7 @@ _Add screenshots of your project here (replace the example below):_
 
 _Add a screen recording video of your portfolio here (replace the example below):_
 
-[![Watch the video](videos/project_codespace_cat_portfolio.mp4)
+![Watch the video](videos/project_codespace_cat_portfolio.mp4)
 
 ---
 
