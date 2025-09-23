@@ -53,14 +53,14 @@ Overall, the project was a mix of trial-and-error, fixing mistakes, and improvin
 
 ## 📸 Screenshots
 
-!(images/sections_1.png)
-!(images/sections_2.png)
+images/sections_1.png
+images/sections_2.png
 
 ---
 
 ## 🎥 Demo Video
 
-!(videos/project_codespace_cat_portfolio.mp4)
+videos/project_codespace_cat_portfolio.mp4
 
 ---
 
